@@ -1,8 +1,8 @@
-
-<img src="https://gfycat.com/ifr/HighlevelHandsomeFinwhale" frameborder='0' scrolling='no' allowfullscreen width='740' height='496'>
+[![MasterHead](https://gfycat.com/ifr/HighlevelHandsomeFinwhale)]
 <h1 align="center">Hi 👋, I'm Hamza El hilali</h1>
 <h3 align="center">A passionate Full Stack JS developer from Morocco</h3>
-<img src="https://giphy.com/embed/L8K62iTDkzGX6" width="480" height="307" frameBorder="0" class="giphy-embed" allowFullScreen/><p>
+
+<img src="https://giphy.com/embed/L8K62iTDkzGX6" width="480" height="307" class="giphy-embed" allowFullScreen>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=elhilali-ha&label=Profile%20views&color=0e75b6&style=flat" alt="elhilali-ha" /> </p>
 
