@@ -4,7 +4,7 @@
 
 <p align="center"> <img src="./img/2.gif" align="center" width="280" height="207" class="giphy-embed" allowFullScreen> </p>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=elhilali-ha&label=Profile%20views&color=0e75b6&style=flat" alt="elhilali-ha" /> </p>
+- 🔦 Hamza Elhilali
 
 - 🌱 I’m currently learning **React Native**
 
