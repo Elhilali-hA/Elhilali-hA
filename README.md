@@ -1,4 +1,4 @@
-<img src="./img/1.gif" width="480" align="left" height="307" class="giphy-embed" allowFullScreen>
+<img src="./img/1.gif" width="480" align="center" height="307" class="giphy-embed" allowFullScreen>
 <h1 align="center">Hi 👋, I'm Hamza El hilali</h1>
 <h3 align="center">A passionate Full Stack JS developer from Morocco</h3>
 
