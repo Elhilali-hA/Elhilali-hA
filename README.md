@@ -1,5 +1,5 @@
 
-[![MasterHead]<img src='https://gfycat.com/ifr/HighlevelHandsomeFinwhale' frameborder='0' scrolling='no' allowfullscreen width='740' height='496'/>
+<img src="https://gfycat.com/ifr/HighlevelHandsomeFinwhale" frameborder='0' scrolling='no' allowfullscreen width='740' height='496'>
 <h1 align="center">Hi 👋, I'm Hamza El hilali</h1>
 <h3 align="center">A passionate Full Stack JS developer from Morocco</h3>
 <img src="https://giphy.com/embed/L8K62iTDkzGX6" width="480" height="307" frameBorder="0" class="giphy-embed" allowFullScreen/><p>
