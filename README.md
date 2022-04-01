@@ -1,8 +1,8 @@
-<img src="./img/1.png" width="580" align="center" height="307" class="giphy-embed" allowFullScreen>
+<p align="center"><img src="./img/1.png" width="650" align="center" height="290" class="giphy-embed" allowFullScreen></p>
 <h1 align="center">Hi 👋, I'm Hamza El hilali</h1>
 <h3 align="center">A passionate Full Stack JS developer from Morocco</h3>
 
-<img src="./img/2.gif" align="center" width="280" height="207" class="giphy-embed" allowFullScreen>
+<p align="center"> <img src="./img/2.gif" align="center" width="280" height="207" class="giphy-embed" allowFullScreen> </p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=elhilali-ha&label=Profile%20views&color=0e75b6&style=flat" alt="elhilali-ha" /> </p>
 
