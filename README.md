@@ -4,7 +4,7 @@
 
 <img src="./img/2.gif" align="center" width="280" height="207" class="giphy-embed" allowFullScreen>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=elhilali-ha&label=Profile%20views&color=0e75b6&style=flat" alt="elhilali-ha" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=elhilali-ha&label=Profile%20views&color=0e75b6&style=flat" alt="elhilali-ha" /> </p>
 
 - 🌱 I’m currently learning **React Native**
 
