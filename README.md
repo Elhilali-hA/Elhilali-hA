@@ -1,4 +1,4 @@
-[![MasterHead](https://gfycat.com/ifr/HighlevelHandsomeFinwhale)]
+[![MasterHead](https://gfycat.com/ifr/HighlevelHandsomeFinwhale)](https://gfycat.com/ifr/HighlevelHandsomeFinwhale)
 <h1 align="center">Hi 👋, I'm Hamza El hilali</h1>
 <h3 align="center">A passionate Full Stack JS developer from Morocco</h3>
 
