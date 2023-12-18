@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **hamzaelhilali8@gmail.com**
 
-- 📄 Know about my experiences [http://hamzaelhilali.me/cv.html](http://hamzaelhilali.me)
+- 📄 Know about my experiences [cv](https://bespoke-clafoutis-ea8db4.netlify.app/)
 
 - ⚡ Fun fact **I think I am funny**
 
