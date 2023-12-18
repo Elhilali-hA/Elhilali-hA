@@ -8,13 +8,13 @@
 
 - 🌱 I’m currently learning **React Native**
 
-- 👨‍💻 All of my projects are available at [hamzaelhilali.me](hamzaelhilali.me)
+- 👨‍💻 All of my projects are available at [hamzaelhilali siteweb](https://bespoke-clafoutis-ea8db4.netlify.app/)
 
 - 💬 Ask me about **MERN, PHP**
 
 - 📫 How to reach me **hamzaelhilali8@gmail.com**
 
-- 📄 Know about my experiences [http://hamzaelhilali.me/cv.html](http://hamzaelhilali.me/cv.html)
+- 📄 Know about my experiences [http://hamzaelhilali.me/cv.html](http://hamzaelhilali.me)
 
 - ⚡ Fun fact **I think I am funny**
 
